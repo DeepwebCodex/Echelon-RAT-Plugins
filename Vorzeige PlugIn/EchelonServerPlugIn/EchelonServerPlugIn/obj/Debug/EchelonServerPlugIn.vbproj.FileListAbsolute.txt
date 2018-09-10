@@ -1,0 +1,12 @@
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\bin\Debug\EchelonServerPlugIn.dll
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\bin\Debug\EchelonServerPlugIn.pdb
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\bin\Debug\EchelonServerPlugIn.xml
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\bin\Debug\EchelonPluginInterface.dll
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\bin\Debug\EchelonPluginInterface.pdb
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\bin\Debug\EchelonPluginInterface.xml
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\obj\Debug\EchelonServerPlugIn.Resources.resources
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\obj\Debug\EchelonServerPlugIn.vbproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\obj\Debug\EchelonServerPlugIn.dll
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\obj\Debug\EchelonServerPlugIn.xml
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\EchelonServerPlugIn\EchelonServerPlugIn\obj\Debug\EchelonServerPlugIn.pdb

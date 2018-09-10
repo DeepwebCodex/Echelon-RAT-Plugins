@@ -1,0 +1,2 @@
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\TutorialClient\TutorialClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Krusty the Clown\Eigene Dateien\Visual Studio 2008\Projects\ECLN 0.4\new plusins\TutorialClient\TutorialClient\obj\Debug\TutorialClient.vbproj.GenerateResource.Cache
